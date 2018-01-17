@@ -4,4 +4,4 @@ applications:
   memory: 512M
   instances: 1
   route-path: realm-boot-strap-cf
-#  random-route: true
+  random-route: true
